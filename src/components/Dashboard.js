@@ -7,8 +7,7 @@ const Dashboard = () => {
         <div>
             
             <div className="center">
-                <h1>Hi {displayName} 😎</h1>
-                <a href="/" className="btn-grn">Go Home</a>
+                <h1>Welcome {displayName} 😎</h1>
             </div>
         </div>
     )
